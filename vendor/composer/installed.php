@@ -1,25 +1,16 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'hcodebr/ecommerce',
+    'reference' => 'b3f160e7b075ee650c0de9fc3b316ab3758b25b2',
+    'name' => 'zeleiria/ecommerce',
   ),
   'versions' => 
   array (
-    'hcodebr/ecommerce' => 
-    array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => NULL,
-    ),
     'phpmailer/phpmailer' => 
     array (
       'pretty_version' => 'v5.2.22',
@@ -46,6 +37,15 @@
       array (
       ),
       'reference' => '3e95c9abbc57a8f023ab4dacebcab9dae4d9f1f0',
+    ),
+    'zeleiria/ecommerce' => 
+    array (
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'b3f160e7b075ee650c0de9fc3b316ab3758b25b2',
     ),
   ),
 );
